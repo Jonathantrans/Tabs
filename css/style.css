@@ -59,7 +59,7 @@ h6 {
     font-size: 35px;
     letter-spacing: 1px;
     text-align:left !important;
-    position: relative;
+    position: sticky;
     padding: 0 30;
     margin: 0px; 
   }
