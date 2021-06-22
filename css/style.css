@@ -58,7 +58,8 @@ h6 {
     font-weight: 400000;
     font-size: 35px;
     letter-spacing: 1px;
-	 text-align:left
+	 text-align:left !important;
+		 position: absolute;
   }
 
 p {
