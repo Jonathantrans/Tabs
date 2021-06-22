@@ -166,7 +166,7 @@ blockquote {
 /*----------------------------------------------------------------------------*/
 
 a {
-  color: #999999 !important;
+  color: black !important;
   text-decoration: none !important;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
