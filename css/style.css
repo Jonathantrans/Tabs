@@ -62,6 +62,7 @@ h6 {
   }
 
 .adjust {
+     position: relative;
      left: 20px;
 }
 
