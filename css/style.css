@@ -59,10 +59,11 @@ h6 {
     font-size: 35px;
     letter-spacing: 1px;
     text-align:left;
-/*     position: static; */
-/*     padding: 40 30; */
-/*     margin: 9px;  */
   }
+
+.adjust {
+     left: 20px;
+}
 
 p {
   font-weight: 500;
