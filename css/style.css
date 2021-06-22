@@ -58,9 +58,9 @@ h6 {
     font-weight: 400000;
     font-size: 35px;
     letter-spacing: 1px;
-    text-align:left !important;
+    text-align:left;
 /*     position: static; */
-    padding: 40 30;
+/*     padding: 40 30; */
 /*     margin: 9px;  */
   }
 
