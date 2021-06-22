@@ -5,7 +5,6 @@
 body {
   background-color: #fcd39b;
   overflow-x: hidden;
-  margin: 0 auto;
   padding: 0;
   -moz-box-sizing: border-box;
   -ms-box-sizing: border-box;
@@ -63,7 +62,7 @@ h6 {
 
 .adjust {
      position: relative;
-     left: 20px;
+     left: 10px;
 }
 
 p {
