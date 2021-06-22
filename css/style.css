@@ -59,9 +59,9 @@ h6 {
     font-size: 35px;
     letter-spacing: 1px;
     text-align:left !important;
-    position: sticky;
-    padding: 0 30;
-    margin: 0px; 
+/*     position: static; */
+/*     padding: 0 30; */
+    margin: 9px; 
   }
 
 p {
