@@ -222,7 +222,7 @@ a:focus {
 }
 
 .navbar-light .navbar-toggler {
-  border-color: white;
+  border-color: #fcd39b;
 }
 
 nav ul li {
@@ -248,7 +248,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #footer {
-  background: #f7f7f7;
+  background: #ffa72e;
   padding-top: 50px;
   padding-bottom: 50px;
 }
