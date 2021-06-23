@@ -55,7 +55,7 @@ h6 {
  h3 {
     color: black;
 /*     font-family: 'Delius', cursive; */
-    font-weight: 400000;
+    font-weight: 900;
     font-size: 35px;
     letter-spacing: 1px;
     text-align:left;
@@ -251,7 +251,7 @@ nav ul li a {
   font-size: 14px;
   color: black;
   letter-spacing: 0.1em;
-  font-weight: 1000;
+  font-weight: 900;
   line-height: 14px;
   text-transform: uppercase;
 }
