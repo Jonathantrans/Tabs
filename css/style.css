@@ -514,3 +514,21 @@ span.wave {
   right: 0.2rem;
   height: 140%;
 }
+
+
+
+
+
+
+
+
+.like__btn {
+  padding: 10px 15px;
+  background: #ffa72e;
+  font-size: 18px;
+  border-radius: 5px;
+  color: #000000;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
