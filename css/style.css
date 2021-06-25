@@ -531,4 +531,5 @@ span.wave {
   outline: none;
   border: none;
   cursor: pointer;
+  border-style: solid;
 }
