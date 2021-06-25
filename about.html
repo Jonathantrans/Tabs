@@ -320,9 +320,8 @@
 
 
 
-
 <script>
-  const likeBtn = document.querySelector(".like__btn");
+const likeBtn = document.querySelector(".like__btn");
   count = document.querySelector("#count");
 
 let clicked = false;
@@ -332,10 +331,10 @@ let clicked = false;
 likeBtn.addEventListener("click", () => {
   if (!clicked) {
     clicked = true;
-    count.textContent++;
+    count.textContent = "You &";
   } else {
     clicked = false;
-    count.textContent--;
+    count.textContent = "";
   }
 });
 </script>
