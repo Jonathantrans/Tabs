@@ -402,47 +402,21 @@ span.wave {
   100% { transform: rotate(  0.0deg); }
 }
 
-*[class^="btn"] {
-  padding: 8px 14px;
-  border: 1px solid transparent;
-  display: inline-block;
+/* First Like Button */
+.like__btn {
+  padding: 10px 15px;
+  background: #ffa72e;
+  font-size: 18px;
   border-radius: 5px;
-  color: #ffffff;
-  font-size: 17px;
-/*   font-family: 'Quicksand', sans-serif; */
-  font-weight: bolder;
+  color: #000000;
+  outline: none;
+  border: none;
   cursor: pointer;
-  -webkit-transition: all 0.1s;
-  -o-transition: all 0.1s;
-  transition: all 0.1s; 
-  max-width: auto; 
+  border-style: solid;
+  border-width: 2px;
 }
 
-*[class^="btn-"]:hover {
-  transform: translate(0px, 2px);
-  box-shadow: 0px 2px 0px transparent; }
-
-*[class^="btn"]:active,
-*[class^="btn"]:focus {
-  transform: translate(0px, 4px);
-  box-shadow: 0px 1px 0px transparent; }
-
-*[class^="btn"] > i[class^="fa"] {
-  margin: 0px 5px 0px -5px;
-  color: inherit; }
-
-
-.btn-r {
-  color: #ffffff;
-  font-weight: 500;
-/*   font-family: "Poppins", sans-serif; */
-  background: #424242;
-  box-shadow: 0px 3px 0px #212121;
-	position: relative;
-}
-
-
-
+/* Second Donate Button */
 
 /* only animate if the device supports hover */
 @media (hover: hover) {
@@ -516,8 +490,8 @@ span.wave {
   height: 140%;
 }
 
-
-.like__btn {
+/* Third Like Button */
+.appbtn {
   padding: 10px 15px;
   background: #ffa72e;
   font-size: 18px;
@@ -528,4 +502,8 @@ span.wave {
   cursor: pointer;
   border-style: solid;
   border-width: 2px;
+}
+
+.appbtn:active {
+  transform: translateY(1px);
 }
