@@ -315,6 +315,30 @@
   });
 });
 </script>
+
+
+
+
+
+
+<script>
+  const likeBtn = document.querySelector(".like__btn");
+  count = document.querySelector("#count");
+
+let clicked = false;
+
+
+
+likeBtn.addEventListener("click", () => {
+  if (!clicked) {
+    clicked = true;
+    count.textContent++;
+  } else {
+    clicked = false;
+    count.textContent--;
+  }
+});
+</script>
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
   <script>
     AOS.init();
