@@ -492,10 +492,9 @@ span.wave {
 
 /* Third App Button */
 .appbtn {
-/*   padding: 10px 15px; */
-  padding: 3px 8px;
+  padding: 10px 15px;
   background: #ffa72e;
-/*   font-size: 8px; */
+  font-size: 18px;
   border-radius: 5px;
   color: #000000;
   outline: none;
@@ -503,7 +502,7 @@ span.wave {
   cursor: pointer;
   border-style: solid;
   border-width: 2px;
-  margin-left: 20px;
+  margin-left: 25px;
 }
 
 .appbtn:active {
