@@ -4781,7 +4781,9 @@ tbody.collapse.show {
 }
 
 .navbar-light .navbar-toggler {
-  color: rgba(0, 0, 0, .5);
+/*   color: rgba(0, 0, 0, .5); */
+/*  PLEASE CHECK  */
+  color: rgba(0, 0, 0, 1);
   border-color: rgba(0, 0, 0, .1)
 }
 
