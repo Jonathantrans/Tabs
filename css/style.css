@@ -78,7 +78,7 @@ b {
 .subheading {
   font-size: 16px !important;
   font-weight: 600;
-  color: #a5a7a7 !important;
+  color: #000000 !important;
   margin: 0;
   padding: 0;
   letter-spacing: 2px;
@@ -198,7 +198,7 @@ a:hover {
 
 a:hover,
 a:focus {
-  color: #ffa72e !important;
+  color: #fcd39b !important;
 }
 
 /*----------------------------------------------------------------------------*/
@@ -284,7 +284,8 @@ nav ul li a {
 
 #footer .socials-media ul li a {
   font-size: 24px;
-  color: #999;
+/*   color: #999; */
+	color: black;
   letter-spacing: 0.1em;
   font-weight: 500;
   background: transparent;
