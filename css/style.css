@@ -198,7 +198,7 @@ a:hover {
 
 a:hover,
 a:focus {
-  color: #fcd39b !important;
+  color: #ffa72e !important;
 }
 
 /*----------------------------------------------------------------------------*/
@@ -236,6 +236,7 @@ a:focus {
 
 .navbar-light .navbar-toggler {
   border-color: #ffa72e;
+/* 	must fix */
 }
 
 nav ul li {
