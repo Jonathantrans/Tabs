@@ -502,7 +502,7 @@ span.wave {
   cursor: pointer;
   border-style: solid;
   border-width: 2px;
-  padding-right: 5px;
+  margin-left: 100px;
 }
 
 .appbtn:active {
