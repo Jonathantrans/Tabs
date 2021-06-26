@@ -490,7 +490,7 @@ span.wave {
   height: 140%;
 }
 
-/* Third Like Button */
+/* Third App Button */
 .appbtn {
   padding: 10px 15px;
   background: #ffa72e;
@@ -502,7 +502,7 @@ span.wave {
   cursor: pointer;
   border-style: solid;
   border-width: 2px;
-  margin-left: 100px;
+  margin-left: 50px;
 }
 
 .appbtn:active {
