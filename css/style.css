@@ -476,6 +476,7 @@ span.wave {
   cursor: pointer;
   border-style: solid;
   border-width: 2px;
+	position: relative;
 }
 
 .button:active {
