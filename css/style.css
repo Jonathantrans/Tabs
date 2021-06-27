@@ -51,6 +51,19 @@ h6 {
     letter-spacing: 1px;
   }
 
+h4:hover {
+  -moz-transition: all 0.5s ease-in-out 0s;
+  -ms-transition: all 0.5s ease-in-out 0s;
+  -o-transition: all 0.5s ease-in-out 0s;
+  -webkit-transition: all 0.5s ease-in-out 0s;
+  transition: all 0.5s ease-in-out 0s;
+}
+
+h4:hover,
+h4:focus {
+  color: #000000 !important;
+}
+
 /* Logo Header Tabs */
  h3 {
     color: black;
