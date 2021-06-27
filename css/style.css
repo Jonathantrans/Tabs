@@ -49,16 +49,24 @@ h6 {
     font-weight: 400000;
     font-size: 14px;
     letter-spacing: 1px;
-    color: black !important;
-  text-decoration: none !important;
-  -moz-transition: all 0.5s ease-in-out 0s;
-  -ms-transition: all 0.5s ease-in-out 0s;
-  -o-transition: all 0.5s ease-in-out 0s;
-  -webkit-transition: all 0.5s ease-in-out 0s;
-  transition: all 0.5s ease-in-out 0s;
   }
 
-h4:hover {
+/* Footer Items Text */
+  h5 {
+    margin: 0;
+    font-weight: 400000;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: black !important;
+    text-decoration: none !important;
+    -moz-transition: all 0.5s ease-in-out 0s;
+    -ms-transition: all 0.5s ease-in-out 0s;
+    -o-transition: all 0.5s ease-in-out 0s;
+    -webkit-transition: all 0.5s ease-in-out 0s;
+    transition: all 0.5s ease-in-out 0s;
+    }
+
+h5:hover {
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
@@ -66,8 +74,8 @@ h4:hover {
   transition: all 0.5s ease-in-out 0s;
 }
 
-h4:hover,
-h4:focus {
+h5:hover,
+h5:focus {
   color: #fcd39b !important;
 }
 
